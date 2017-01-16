@@ -25,9 +25,9 @@ __YOU HAVE TO SEE:__
 
 ***
 
-- __Homepage:__ <https://www.jcomponent.org>
-- __Full SPA example:__ <https://example.jcomponent.org>
-- __Download existing components__ <https://www.componentator.com>
+- __Homepage:__ <http://www.jcomponent.org>
+- __Full SPA example:__ <http://example.jcomponent.org>
+- __Download existing components__ <http://www.componentator.com>
 
 ***
 
